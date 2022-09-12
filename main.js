@@ -308,7 +308,7 @@
     },
     "140.123": {
       "name": "國立中正大學",
-      "url": "https://upload.wikimedia.org/wikipedia/zh/thumb/5/5d/National_Chung_Cheng_University_logo.svg/1200px-National_Chung_Cheng_University_logo.svg.png"
+      "url": "https://i.imgur.com/cKBAzZO.png"
     },
     "140.124": {
       "name": "國立臺北科技大學",
