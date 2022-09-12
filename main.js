@@ -3,7 +3,7 @@
 // @description  根據巴哈給的文章ip顯示對應的國旗
 // @namespace    nathan60107
 // @author       nathan60107(貝果)
-// @version      1.7.8
+// @version      1.7.9
 // @license      MIT
 // @homepage     https://home.gamer.com.tw/homeindex.php?owner=nathan60107
 // @match        https://forum.gamer.com.tw/C*
