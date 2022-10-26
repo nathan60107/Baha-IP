@@ -3,7 +3,7 @@
 // @description  根據巴哈給的文章ip顯示對應的國旗
 // @namespace    nathan60107
 // @author       nathan60107(貝果)
-// @version      1.7.9
+// @version      1.7.10
 // @license      MIT
 // @homepage     https://home.gamer.com.tw/homeindex.php?owner=nathan60107
 // @match        https://forum.gamer.com.tw/C*
@@ -300,7 +300,7 @@
     },
     "140.121": {
       "name": "國立臺灣海洋大學",
-      "url": "https://upload.wikimedia.org/wikipedia/zh/a/a1/Ntoulogo.gif"
+      "url": "https://i.imgur.com/5WtBn5N.png"
     },
     "140.122": {
       "name": "國立臺灣師範大學",
