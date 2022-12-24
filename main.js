@@ -3,7 +3,7 @@
 // @description  根據巴哈給的文章ip顯示對應的國旗
 // @namespace    nathan60107
 // @author       nathan60107(貝果)
-// @version      1.7.10
+// @version      1.7.11
 // @license      MIT
 // @homepage     https://home.gamer.com.tw/homeindex.php?owner=nathan60107
 // @match        https://forum.gamer.com.tw/C*
@@ -268,7 +268,7 @@
     },
     "140.113": {
       "name": "國立交通大學",
-      "url": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6b/NCTU_emblem.svg/1200px-NCTU_emblem.svg.png"
+      "url": "https://i.imgur.com/2DCzAtc.png"
     },
     "140.114": {
       "name": "國立清華大學",
@@ -312,7 +312,7 @@
     },
     "140.124": {
       "name": "國立臺北科技大學",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NTUT_Logo_2013.svg/1200px-NTUT_Logo_2013.svg.png"
+      "url": "https://i.imgur.com/lAAtzDw.png"
     },
     "140.125": {
       "name": "國立雲林科技大學",
